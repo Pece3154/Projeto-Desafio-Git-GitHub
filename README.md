@@ -3,7 +3,6 @@ Estes é o repositório do desafio da aula 'Criando seu Primeiro Repositório no
 Onde mostrarei algumas anotações e lembretes feitos a partir do estudo e entendimento das aulas passadas.
 
 ## Links úteis
-<p>[Sintaxe Básica Markdonw](https://www.markdownguide.org/basic-syntax/)
-</p>
-
+[Sintaxe Básica Markdonw](https://www.markdownguide.org/basic-syntax/)
+<br>
 [Donwload do Git](https://git-scm.com/downloads)

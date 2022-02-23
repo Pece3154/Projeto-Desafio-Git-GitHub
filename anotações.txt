@@ -1,0 +1,23 @@
+Anotações!
+
+Vetores e matrizes são arrays que possuem apenas um tipo de dado, caractere, numero etc.
+
+Registro, armazena vários tipos de dados.Por exemplo:
+
+Ao fazer um cadastro de uma pessoa é necessário
+os dados cpf, nome, enderaço, contato. Cada informação dessa corresponde á um tipo de dado, real, string e outros.
+
+#Listas
+
+As listas se diferem dos arrays pois possuem tamanho ajustável enquanto os arrys possuem tamanho fixo. Por exemplo: posso ir inserindo convidados numa festa conforme a demanda de pessoas, asssm como posso remover os mesmos.
+
+LISTAS LIGADAS
+Sao listas que ficam ligadas à outras listas por meio de nós, sabem quem é o próximo elemento, "andam pra frente" apenas.
+
+DUPLAMENTE LIGADAS
+Bidimensional
+tem ligação tanto com o nó da frente quanto com o nó de trás, podendo andar pra "frente e para trás".
+
+
+
+Essas são alguns exemplos de conteúdo mininstrados no curso Estrutura de Dados e Algoritmos!

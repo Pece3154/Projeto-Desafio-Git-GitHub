@@ -4,5 +4,5 @@ Onde mostrarei algumas anotações e lembretes feitos a partir do estudo e enten
 
 ## Links úteis
 [Sintaxe Básica Markdonw](https://www.markdownguide.org/basic-syntax/)
-<p><p>
+<p></p>
 [Donwload do Git](https://git-scm.com/downloads)
